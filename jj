@@ -1,1 +1,2 @@
 MONGO_URI=your-mongodb-connection-string
+MONGO_URI=mongodb+srv://backenduser:9kHFflpphc8QWwK8@playerprofilecluster.g1su6.mongodb.net/?retryWrites=true&w=majority&appName=PlayerProfileCluster
